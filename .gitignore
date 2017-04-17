@@ -3,6 +3,7 @@
 *.lo
 *.o
 *.obj
+*.resx
 
 # Precompiled Headers
 *.gch
@@ -22,8 +23,13 @@
 *.la
 *.a
 *.lib
+.vs/
 
 # Executables
 *.exe
 *.out
 *.app
+
+# Project files
+Dir/
+Backup/
