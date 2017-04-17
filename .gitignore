@@ -33,3 +33,7 @@
 # Project files
 Dir/
 Backup/
+obj/
+Properties/
+bin/Debug/
+obj/
