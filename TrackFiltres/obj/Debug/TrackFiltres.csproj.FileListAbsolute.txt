@@ -1,0 +1,36 @@
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.exe
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.pdb
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\bin\Debug\TrackFiltres.exe
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\bin\Debug\TrackFiltres.pdb
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.csprojResolveAssemblyReference.cache
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.Form1.resources
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.Properties.Resources.resources
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.FormKalmanParms.resources
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.FormSelectCompare.resources
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.csproj.GenerateResource.Cache
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.exe
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.pdb
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\bin\Debug\TrackFiltres.exe
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\bin\Debug\TrackFiltres.pdb
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.csprojResolveAssemblyReference.cache
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.Form1.resources
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.Properties.Resources.resources
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.FormKalmanParms.resources
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.FormSelectCompare.resources
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.csproj.GenerateResource.Cache
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\bin\Debug\TrackFiltres.exe.config
+C:\Users\ruslan\Desktop\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.FormKalmanDraw.resources
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\bin\Debug\TrackFiltres.exe.config
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.exe
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.pdb
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\bin\Debug\TrackFiltres.exe
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\bin\Debug\TrackFiltres.pdb
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.csprojResolveAssemblyReference.cache
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.Form1.resources
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.FormKalmanDraw.resources
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.Properties.Resources.resources
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.FormKalmanParms.resources
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.FormSelectCompare.resources
+C:\Users\ruslan\Documents\Cloud Mail.Ru\Diploma\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.csproj.GenerateResource.Cache
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\bin\Debug\TrackFiltres.exe.config
+C:\Users\ruslan\Desktop\TrackFiltres_new\TrackFiltres\obj\Debug\TrackFiltres.FormKalmanDraw.resources
